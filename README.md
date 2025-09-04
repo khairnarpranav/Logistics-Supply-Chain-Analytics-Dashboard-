@@ -15,7 +15,13 @@ Orders & customer growth tracking
 
 Discounts and sales by product department
 
-Shipment mode analysis
+🔹 Shipment Management
+ ## 👥 Authors  
+
+- *Dityaraj Singh*  
+- *Pranav Khairnar*  
+
+We collaborated equally on all aspects of this project, including *data modeling with SQL*, database setup, Power BI dashboard design, KPI development, and documentation.
 
 Inventory Management Dashboard
 
